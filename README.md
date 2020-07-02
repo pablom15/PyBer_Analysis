@@ -35,6 +35,7 @@ Ultimately the urban cities generate the most money in total fares due to their 
     - There were no challenges when plotting but making sure to increase the figure size is important to read the plot easily and accurately.
 
 ### Technical Analyses Used
+Creating pandas data frames helped troubleshoot any issues by testing a line of code and analyzing the output of the respective code input.
 
 ## Recommendations and Next Steps
 I would recommend to increase the fare price for urban cities and reduce the number of drivers by using performance reviews. I would also recommend to increase fare prices during 'hot weeks' such as the end of February and middle of March (this is most likely Spring Break week). Decreasing the fare price for rural cities may result in more drivers and the increase of urban fares will help with that offset while still bringing in more revenue in fares.
